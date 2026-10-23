@@ -1,0 +1,6 @@
+{
+  "name": "Jeddah Typing Office - Ajman UAE",
+  "description": "Professional document typing, business setup assistance, PRO services, and administrative support in Al Rashidiya 3, Ajman, UAE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
